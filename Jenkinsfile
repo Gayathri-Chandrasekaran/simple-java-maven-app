@@ -6,5 +6,5 @@ pipeline {
                 bat 'mvn -B -DskipTests clean package'
             }
         }
-      
+    }
 }
